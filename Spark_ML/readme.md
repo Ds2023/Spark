@@ -6,4 +6,13 @@ He does not know how to estimate price of mobiles his company creates. In this c
 
 Bob wants to find out some relation between features of a mobile phone(eg:- RAM,Internal Memory etc) and its selling price. But he is not so good at Machine Learning. So he needs your help to solve this problem.
 
-In this problem you do not have to predict actual price but a price range indicating how high the price is
+In this problem you do not have to predict actual price but a price range indicating how high the price is.
+
+We'll employ a RandomForestClassifier to solve our problem.
+
+## Technologies required
+- Spark
+- Python
+- Spark MLlib
+- Matplotlib
+- Seaborn
